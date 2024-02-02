@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1609221731 source:c:\users\mong-jen kao\documents\__courses\109-1-cprog\progs\final\my-buffered-gettoken.c
+
+1609226054 source:c:\users\mong-jen kao\documents\__courses\109-1-cprog\progs\final\processsql.c
+	"final.h"
+	"my-buffered-gettoken.h"
+
+1609221337 c:\users\mong-jen kao\documents\__courses\109-1-cprog\progs\final\final.h
+	"sql.h"
+
+1609225840 c:\users\mong-jen kao\documents\__courses\109-1-cprog\progs\final\sql.h
+
+1609221489 c:\users\mong-jen kao\documents\__courses\109-1-cprog\progs\final\my-buffered-gettoken.h
+
+1609226482 source:c:\users\mong-jen kao\documents\__courses\109-1-cprog\progs\test\final\main.c
+	<stdio.h>
+	"final.h"
+
+1609221337 c:\users\mong-jen kao\documents\__courses\109-1-cprog\progs\test\final\final.h
+	"sql.h"
+
+1609225840 c:\users\mong-jen kao\documents\__courses\109-1-cprog\progs\test\final\sql.h
+
+1609226054 source:c:\users\mong-jen kao\documents\__courses\109-1-cprog\progs\test\final\processsql.c
+	"final.h"
+	"my-buffered-gettoken.h"
+
+1609221489 c:\users\mong-jen kao\documents\__courses\109-1-cprog\progs\test\final\my-buffered-gettoken.h
+
